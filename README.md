@@ -43,10 +43,10 @@ El código fuente principal se encuentra en `app/src/main/java/com/example/ucmma
 -   `MainActivity.kt`: El punto de entrada de la aplicación. Configura el tema y el grafo de navegación de Compose.
 -   `view/`: Contiene los Composables que definen las pantallas de la aplicación.
     -   `HomeScreen.kt`: La pantalla principal que alberga el mapa, la lógica de rutas y la interacción del usuario.
-    -   `WelcomeScreen.kt`, `LoginScreen.kt`, `RegisterScreen.kt`: Pantallas para el flujo de autenticación (si aplica).
+    -   `WelcomeScreen.kt`, `LoginScreen.kt`, `RegisterScreen.kt`: Pantallas para el flujo de autenticación.
 -   `routing/`: Lógica para el cálculo de rutas offline.
     -   `OfflineRouter.kt`: Implementa el algoritmo para encontrar el camino más corto sobre la red de caminos definida en el GeoJSON.
--   `network/`: (Si aplica) Clases para la comunicación con servicios de red.
+-   `network/`: Clases para la comunicación con servicios de red.
 -   `ui/theme/`: Archivos de configuración del tema de la aplicación (colores, tipografía).
 -   `GeoJsonRenderer.kt`: Clase de utilidad para parsear y renderizar datos desde archivos GeoJSON en el mapa de osmdroid.
 
