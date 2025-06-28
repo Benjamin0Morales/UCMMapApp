@@ -1,0 +1,140 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-06-27T17:54:12Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/110778753",
+        "amenity": "university",
+        "capacity": "11000",
+        "isced:2011:level": "bachelor;doctorate;master",
+        "name": "Universidad Católica del Maule",
+        "school:gender": "mixed",
+        "website": "https://portal.ucm.cl/",
+        "wikidata": "Q5053274",
+        "wikimedia_commons": "Category:Universidad Católica del Maule",
+        "wikipedia": "es:Universidad Católica del Maule"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -71.6227923,
+              -35.4363516
+            ],
+            [
+              -71.6227356,
+              -35.4363693
+            ],
+            [
+              -71.6216488,
+              -35.4367093
+            ],
+            [
+              -71.6213701,
+              -35.4367893
+            ],
+            [
+              -71.6210093,
+              -35.4360216
+            ],
+            [
+              -71.6206509,
+              -35.4361146
+            ],
+            [
+              -71.6204095,
+              -35.4361911
+            ],
+            [
+              -71.6199492,
+              -35.4363192
+            ],
+            [
+              -71.619799,
+              -35.4363594
+            ],
+            [
+              -71.6191703,
+              -35.4365451
+            ],
+            [
+              -71.6190042,
+              -35.4366044
+            ],
+            [
+              -71.6192132,
+              -35.4368991
+            ],
+            [
+              -71.6193044,
+              -35.4370434
+            ],
+            [
+              -71.6194977,
+              -35.4373693
+            ],
+            [
+              -71.6178991,
+              -35.4378588
+            ],
+            [
+              -71.6164883,
+              -35.4348736
+            ],
+            [
+              -71.6214128,
+              -35.4334181
+            ],
+            [
+              -71.6214853,
+              -35.4335817
+            ],
+            [
+              -71.6219625,
+              -35.4345871
+            ],
+            [
+              -71.6219914,
+              -35.4346486
+            ],
+            [
+              -71.6226905,
+              -35.4361351
+            ],
+            [
+              -71.6227397,
+              -35.4362397
+            ],
+            [
+              -71.6227923,
+              -35.4363516
+            ]
+          ]
+        ]
+      },
+      "id": "way/110778753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3088253907",
+        "access": "permissive",
+        "barrier": "gate",
+        "motor_vehicle": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6227356,
+          -35.4363693
+        ]
+      },
+      "id": "node/3088253907"
+    }
+  ]
+}
